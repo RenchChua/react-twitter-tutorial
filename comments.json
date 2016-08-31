@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Pete Hunt",
+        "text": "Hey there!"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Paul O’Shannessy",
+        "text": "React is *greatest*!"
+    },
+    {
+        "id": 1472535154546,
+        "author": "Foo Bar",
+        "text": "Boomshakalaka"
+    },
+    {
+        "id": 1472535160735,
+        "author": "Spaz Baz",
+        "text": "Yass!"
+    },
+    {
+        "id": 1472548663648,
+        "author": "Blah",
+        "text": "something new"
+    },
+    {
+        "id": 1472548698037,
+        "author": "Another one!",
+        "text": "Let's have another comment!!!"
+    },
+    {
+        "id": 1472548740595,
+        "author": "Hello",
+        "text": "World! Let's see the number change"
+    },
+    {
+        "id": 1472548883398,
+        "author": "hahaha",
+        "text": "this shall post!!!!"
+    }
+]
